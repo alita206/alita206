@@ -8,6 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
+
 ## technologies that I use in my daily life
 
 <div style="display: inline_block"></br>
